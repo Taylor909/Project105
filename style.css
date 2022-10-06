@@ -1,0 +1,24 @@
+body{
+    background-image:linear-gradient(salmon,darkcyan);
+    color:black;
+}
+
+button{
+    background-color:tomato ;
+    color:aliceblue;
+}
+
+#personName,#personAccuracy{
+    font-family: sans-serif;
+    font-size: 25;
+}
+
+#camera, #result{
+    border:3px dotted ;
+    width: 375px; 
+    height: 325px;
+}
+
+h1{
+    color:teal
+}
